@@ -24,3 +24,7 @@ COMPLETED | 01/01/2016
 - Pseudoclassical Patterns
 - Superclass and Subclasses
 - Pseudoclassical Subclasses
+
+## Responsive Images
+IN PROGRESS | 18/01/2016
+- Lesson 1: Getting Up and Running

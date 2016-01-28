@@ -2,7 +2,6 @@
 
 ## Web Tooling & Automation
 COMPLETED | 27/12/2015
-
 - Course Introduction
 - Lesson 1: Productive Editing
 - Lesson 2: Powerful Builds
@@ -13,7 +12,6 @@ COMPLETED | 27/12/2015
 
 ## Object-Oriented JavaScript
 COMPLETED | 01/01/2016
-
 - Scopes
 - Closures
 - 'this' Keyword
@@ -31,3 +29,7 @@ COMPLETED | 18/01/2016
 - Lesson 2: Units, Formats, Environments
 - Lesson 3: Images with Markup
 - Lesson 4: Full Responsiveness
+
+## HTML5 Canvas
+IN PROGRESS
+- Lesson 1 - HTML5 Canvas Basics

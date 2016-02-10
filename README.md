@@ -33,3 +33,8 @@ COMPLETED | 18/01/2016
 ## HTML5 Canvas
 IN PROGRESS
 - Lesson 1 - HTML5 Canvas Basics
+
+## JavaScript Testing
+COMPLETED | 10/02/2016
+- Lesson 1: Rethinking Testing
+- Lesson 2: Writing Test Suites

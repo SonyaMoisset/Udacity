@@ -41,5 +41,6 @@ COMPLETED | 27/02/2016
 - Lesson 2 - Pixel and Animation
 
 ## Intro to AJAX
-IN PROGRESS
+COMPLETED | 27/02/2016
 - Lesson 1 - Requests and APIs
+- Lesson 2 - Building The Move Planner App

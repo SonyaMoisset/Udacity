@@ -30,11 +30,12 @@ COMPLETED | 18/01/2016
 - Lesson 3: Images with Markup
 - Lesson 4: Full Responsiveness
 
-## HTML5 Canvas
-IN PROGRESS
-- Lesson 1 - HTML5 Canvas Basics
-
 ## JavaScript Testing
 COMPLETED | 10/02/2016
 - Lesson 1: Rethinking Testing
 - Lesson 2: Writing Test Suites
+
+## HTML5 Canvas
+COMPLETED | 27/02/2016
+- Lesson 1 - HTML5 Canvas Basics
+- Lesson 2 - Pixel and Animation

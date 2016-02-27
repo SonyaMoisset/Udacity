@@ -39,3 +39,7 @@ COMPLETED | 10/02/2016
 COMPLETED | 27/02/2016
 - Lesson 1 - HTML5 Canvas Basics
 - Lesson 2 - Pixel and Animation
+
+## Intro to AJAX
+IN PROGRESS
+- Lesson 1 - Requests and APIs

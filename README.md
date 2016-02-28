@@ -44,3 +44,7 @@ COMPLETED | 27/02/2016
 COMPLETED | 27/02/2016
 - Lesson 1 - Requests and APIs
 - Lesson 2 - Building The Move Planner App
+
+## JavaScript Design Patterns
+IN PROGRESS
+- Lesson 1 - Changing Expectations

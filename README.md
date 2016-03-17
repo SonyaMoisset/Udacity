@@ -48,3 +48,4 @@ COMPLETED | 27/02/2016
 ## JavaScript Design Patterns
 IN PROGRESS
 - Lesson 1 - Changing Expectations
+- Lesson 2 - Refactoring with Separation of Concerns

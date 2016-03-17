@@ -46,7 +46,7 @@ COMPLETED | 27/02/2016
 - Lesson 2 - Building The Move Planner App
 
 ## JavaScript Design Patterns
-IN PROGRESS
+COMPLETED | 17/03/2016
 - Lesson 1 - Changing Expectations
 - Lesson 2 - Refactoring with Separation of Concerns
 - Lesson 3 - Using an Organizational Library

@@ -49,3 +49,4 @@ COMPLETED | 27/02/2016
 IN PROGRESS
 - Lesson 1 - Changing Expectations
 - Lesson 2 - Refactoring with Separation of Concerns
+- Lesson 3 - Using an Organizational Library

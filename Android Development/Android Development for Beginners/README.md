@@ -5,3 +5,4 @@
 - Coffee Break Challenge (Optional)
 - Making an App Interactive: Part 1
 - Making an App Interactive: Part 2
+- Practice Set: Making an App Interactive

@@ -6,4 +6,5 @@
 - Making an App Interactive: Part 1
 - Making an App Interactive: Part 2
 - Practice Set: Making an App Interactive
-- Object-Oriented Program: Part 1
+- Object-Oriented Programming: Part 1
+- Object-Oriented Programming: Part 2

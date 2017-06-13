@@ -8,3 +8,6 @@
 - Practice Set: Making an App Interactive
 - Object-Oriented Programming: Part 1
 - Object-Oriented Programming: Part 2
+
+# Android Basics: Multiscreen
+- Intents and Activities

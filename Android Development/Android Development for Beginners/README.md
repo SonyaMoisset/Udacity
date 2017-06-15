@@ -11,3 +11,4 @@
 
 # Android Basics: Multiscreen
 - Intents and Activities
+- Arrays, Lists, Loops & Custom Classes

@@ -14,3 +14,4 @@
 - Arrays, Lists, Loops & Custom Classes
 - Images and Visual Polish
 - Activity Lifecycle and Audio Playback
+- Fragments

@@ -65,3 +65,11 @@ COMPLETED | 12/06/2017
 - Practice Set: Making an App Interactive
 - Object-Oriented Programming: Part 1
 - Object-Oriented Programming: Part 2
+
+# Android Basics: Multiscreen Apps
+COMPLETED | 16/06/2017
+- Intents and Activities
+- Arrays, Lists, Loops, & Custom Classes
+- Images and Visual Polish
+- Activity Lifecyle and Audio Playback
+- Fragments

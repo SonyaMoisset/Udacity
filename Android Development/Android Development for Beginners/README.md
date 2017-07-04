@@ -16,7 +16,8 @@
 - Activity Lifecycle and Audio Playback
 - Fragments
 
-# Android Basics : Networking
+# Android Basics: Networking
 - JSON Parsing
 - HTTP Networking
 - Threads & Parallelism
+- Preferences

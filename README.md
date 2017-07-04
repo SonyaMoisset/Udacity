@@ -73,3 +73,10 @@ COMPLETED | 16/06/2017
 - Images and Visual Polish
 - Activity Lifecyle and Audio Playback
 - Fragments
+
+# Android Basics: Networking
+COMPLETED | 04/07/2017
+- JSON Parsing
+- HTTP Networking
+- Threads & Parallelism
+- Preferences
